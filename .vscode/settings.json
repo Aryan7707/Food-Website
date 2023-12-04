@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/48fce704-41d1-48f0-a616-1a39afc36e3a/resourceGroups/foodapp-zz/providers/Microsoft.Web/sites/foodapp-zz",
+    "appService.deploySubpath": "."
+}
